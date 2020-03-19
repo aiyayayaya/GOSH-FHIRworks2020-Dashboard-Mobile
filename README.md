@@ -19,7 +19,7 @@ Change the `BASE_URL` into the domain you used for the Django server in the `htt
 If you are using the Android Studio emulator, you can run it directly in Android Studio. If you are using a physical phone, do the following.
 
 Open the project in Android Studio. Then, type the command to build the project:
-- Android - https://flutter.dev/docs/deployment/android#build-an-app-bundle or uploaded [here]() 
+- Android - https://flutter.dev/docs/deployment/android#build-an-app-bundle or uploaded [here](https://github.com/aiyayayaya/GOSH-FHIRworks2020-Dashboard-Mobile/releases/tag/1.0) 
 - IOS - https://flutter.dev/docs/deployment/ios
 
 Install the package on your phone. Remember to allow your phone to install external apps.
